@@ -4,4 +4,4 @@ c++
 kotlin
 dart/flutter
 ruby
-javascript
+javascript/react
