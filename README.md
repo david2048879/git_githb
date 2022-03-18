@@ -2,6 +2,6 @@
 java
 c++
 kotlin
-dart
+dart/flutter
 ruby
 javascript
